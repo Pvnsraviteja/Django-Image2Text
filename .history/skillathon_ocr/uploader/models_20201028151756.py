@@ -33,17 +33,14 @@ class ImageFile(models.Model):
         img = Image.open(self.image)
         txt = pytesseract.image_to_string(img, lang='eng')
         matches = datefinder.find_dates(txt)
-        date_text = None
         for match in matches:
-            if not date_text:
-                date_text = ''
-            date_text += str(match)
+            print(match)
         execution_time = time.time() - start_time
-        ocr_txt = OCRText(image = self, text = txt,lang = date_text, execution_time = execution_time)
+        ocr_txt = OCRText(image = txt, text = match,lang = "EN", execution_time = execution_time)
         ocr_txt.save()
 
-        print("The image {0} was opened.".format(self.image))
-        print('OCR: \n{0}\n'.format(txt))
+        print("The image {0} was opened.".format(self.txt))
+        print('OCR: \n{0}\n'.format(match))
         print('OCR_Date: \n{0}\n'.format(match))
         print('Execution Time: {0}'.format(ocr_txt.execution_time))
 
@@ -80,7 +77,7 @@ class OCRText(models.Model):
     image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)
     create_at = models.DateTimeField("Create at", auto_now_add=True)
     updated_at = models.DateTimeField("Update at", auto_now=True)
-    
+
     def __str__(self):
         return "{0:03d} - {1}".format(self.id, self.image.internal_reference)
 

@@ -1,5 +1,1163 @@
 [
     {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "utils",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {
+            "value": "\n```python\nimport core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {
+            "value": "\n```python\nimport hashlib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {
+            "value": "\n```python\nimport PIL\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "pytesseract",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytesseract",
+        "description": "pytesseract",
+        "detail": "pytesseract",
+        "documentation": {
+            "value": "\n```python\nimport pytesseract\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "datefinder",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datefinder",
+        "description": "datefinder",
+        "detail": "datefinder",
+        "documentation": {
+            "value": "\n```python\nimport datefinder\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileForm",
+        "importPath": "uploader.forms",
+        "description": "uploader.forms",
+        "isExtraImport": true,
+        "detail": "uploader.forms",
+        "documentation": {
+            "value": "\n```python\nimport uploader.forms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileForm",
+        "importPath": "uploader.forms",
+        "description": "uploader.forms",
+        "isExtraImport": true,
+        "detail": "uploader.forms",
+        "documentation": {
+            "value": "\n```python\nimport uploader.forms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileForm",
+        "importPath": "uploader.forms",
+        "description": "uploader.forms",
+        "isExtraImport": true,
+        "detail": "uploader.forms",
+        "documentation": {
+            "value": "\n```python\nimport uploader.forms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "importPath": "uploader.models",
+        "description": "uploader.models",
+        "isExtraImport": true,
+        "detail": "uploader.models",
+        "documentation": {
+            "value": "\n```python\nimport uploader.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "importPath": "uploader.models",
+        "description": "uploader.models",
+        "isExtraImport": true,
+        "detail": "uploader.models",
+        "documentation": {
+            "value": "\n```python\nimport uploader.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "importPath": "uploader.models",
+        "description": "uploader.models",
+        "isExtraImport": true,
+        "detail": "uploader.models",
+        "documentation": {
+            "value": "\n```python\nimport uploader.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "importPath": "uploader.models",
+        "description": "uploader.models",
+        "isExtraImport": true,
+        "detail": "uploader.models",
+        "documentation": {
+            "value": "\n```python\nimport uploader.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "importPath": "uploader.models",
+        "description": "uploader.models",
+        "isExtraImport": true,
+        "detail": "uploader.models",
+        "documentation": {
+            "value": "\n```python\nimport uploader.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
         "label": "admin",
         "importPath": "django.contrib",
         "description": "django.contrib",
@@ -51,116 +1209,6 @@
         "detail": "django.apps",
         "documentation": {
             "value": "\n```python\nimport django.apps\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {
-            "value": "\n```python\nimport django.db\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -207,39 +1255,6 @@
         "detail": "random",
         "documentation": {
             "value": "\n```python\nimport random\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "render",
-        "importPath": "django.shortcuts",
-        "description": "django.shortcuts",
-        "isExtraImport": true,
-        "detail": "django.shortcuts",
-        "documentation": {
-            "value": "\n```python\nimport django.shortcuts\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "render",
-        "importPath": "django.shortcuts",
-        "description": "django.shortcuts",
-        "isExtraImport": true,
-        "detail": "django.shortcuts",
-        "documentation": {
-            "value": "\n```python\nimport django.shortcuts\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "redirect",
-        "importPath": "django.shortcuts",
-        "description": "django.shortcuts",
-        "isExtraImport": true,
-        "detail": "django.shortcuts",
-        "documentation": {
-            "value": "\n```python\nimport django.shortcuts\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -334,39 +1349,6 @@
         }
     },
     {
-        "label": "ImageFile",
-        "importPath": "uploader.models",
-        "description": "uploader.models",
-        "isExtraImport": true,
-        "detail": "uploader.models",
-        "documentation": {
-            "value": "\n```python\nimport uploader.models\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "ImageFile",
-        "importPath": "uploader.models",
-        "description": "uploader.models",
-        "isExtraImport": true,
-        "detail": "uploader.models",
-        "documentation": {
-            "value": "\n```python\nimport uploader.models\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "ImageFile",
-        "importPath": "uploader.models",
-        "description": "uploader.models",
-        "isExtraImport": true,
-        "detail": "uploader.models",
-        "documentation": {
-            "value": "\n```python\nimport uploader.models\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
         "label": "forms",
         "importPath": "django",
         "description": "django",
@@ -374,52 +1356,6 @@
         "detail": "django",
         "documentation": {
             "value": "\n```python\nimport django\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "utils",
-        "importPath": "core",
-        "description": "core",
-        "isExtraImport": true,
-        "detail": "core",
-        "documentation": {
-            "value": "\n```python\nimport core\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "hashlib",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "hashlib",
-        "description": "hashlib",
-        "detail": "hashlib",
-        "documentation": {
-            "value": "\n```python\nimport hashlib\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "Image",
-        "importPath": "PIL",
-        "description": "PIL",
-        "isExtraImport": true,
-        "detail": "PIL",
-        "documentation": {
-            "value": "\n```python\nimport PIL\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "pytesseract",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "pytesseract",
-        "description": "pytesseract",
-        "detail": "pytesseract",
-        "documentation": {
-            "value": "\n```python\nimport pytesseract\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -435,17 +1371,6 @@
         }
     },
     {
-        "label": "ImageFileForm",
-        "importPath": "uploader.forms",
-        "description": "uploader.forms",
-        "isExtraImport": true,
-        "detail": "uploader.forms",
-        "documentation": {
-            "value": "\n```python\nimport uploader.forms\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
         "label": "sys",
         "kind": 6,
         "isExtraImport": true,
@@ -454,6 +1379,1050 @@
         "detail": "sys",
         "documentation": {
             "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028125659",
+        "description": ".history.skillathon_ocr.uploader.models_20201028125659",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028125659",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028125659 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028125659",
+        "description": ".history.skillathon_ocr.uploader.models_20201028125659",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028125659",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028125659 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028125659",
+        "description": ".history.skillathon_ocr.uploader.models_20201028125659",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028125659",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028125659 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028145207",
+        "description": ".history.skillathon_ocr.uploader.models_20201028145207",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028145207",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028145207 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028145207",
+        "description": ".history.skillathon_ocr.uploader.models_20201028145207",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028145207",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028145207 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028145207",
+        "description": ".history.skillathon_ocr.uploader.models_20201028145207",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.i\n                                      d, self.image.internal_reference)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028145207",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028145207 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.i\n                                      d, self.image.internal_reference)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028145313",
+        "description": ".history.skillathon_ocr.uploader.models_20201028145313",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028145313",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028145313 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028145313",
+        "description": ".history.skillathon_ocr.uploader.models_20201028145313",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028145313",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028145313 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028145313",
+        "description": ".history.skillathon_ocr.uploader.models_20201028145313",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.i\n                                      d, self.image.internal_reference)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028145313",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028145313 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.i\n                                      d, self.image.internal_reference)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028145806",
+        "description": ".history.skillathon_ocr.uploader.models_20201028145806",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028145806",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028145806 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028145806",
+        "description": ".history.skillathon_ocr.uploader.models_20201028145806",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028145806",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028145806 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028145806",
+        "description": ".history.skillathon_ocr.uploader.models_20201028145806",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028145806",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028145806 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028150648",
+        "description": ".history.skillathon_ocr.uploader.models_20201028150648",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028150648",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028150648 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028150648",
+        "description": ".history.skillathon_ocr.uploader.models_20201028150648",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028150648",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028150648 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028150648",
+        "description": ".history.skillathon_ocr.uploader.models_20201028150648",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028150648",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028150648 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028150925",
+        "description": ".history.skillathon_ocr.uploader.models_20201028150925",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028150925",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028150925 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028150925",
+        "description": ".history.skillathon_ocr.uploader.models_20201028150925",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028150925",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028150925 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028150925",
+        "description": ".history.skillathon_ocr.uploader.models_20201028150925",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028150925",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028150925 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151215",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151215",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151215",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151215 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151215",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151215",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151215",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151215 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151215",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151215",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151215",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151215 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151221",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151221",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151221",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151221 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151221",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151221",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151221",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151221 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151221",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151221",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151221",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151221 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151342",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151342",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151342",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151342 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151342",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151342",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151342",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151342 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151342",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151342",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151342",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151342 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151756",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151756",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151756",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151756 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151756",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151756",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151756",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151756 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151756",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151756",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151756",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151756 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151908",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151908",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151908",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151908 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151908",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151908",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151908",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151908 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151908",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151908",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151908",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151908 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151942",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151942",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151942",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151942 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151942",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151942",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151942",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151942 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028151942",
+        "description": ".history.skillathon_ocr.uploader.models_20201028151942",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028151942",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028151942 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028152011",
+        "description": ".history.skillathon_ocr.uploader.models_20201028152011",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028152011",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028152011 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028152011",
+        "description": ".history.skillathon_ocr.uploader.models_20201028152011",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028152011",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028152011 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028152011",
+        "description": ".history.skillathon_ocr.uploader.models_20201028152011",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028152011",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028152011 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028152130",
+        "description": ".history.skillathon_ocr.uploader.models_20201028152130",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028152130",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028152130 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028152130",
+        "description": ".history.skillathon_ocr.uploader.models_20201028152130",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028152130",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028152130 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028152130",
+        "description": ".history.skillathon_ocr.uploader.models_20201028152130",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028152130",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028152130 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028152611",
+        "description": ".history.skillathon_ocr.uploader.models_20201028152611",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028152611",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028152611 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028152611",
+        "description": ".history.skillathon_ocr.uploader.models_20201028152611",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028152611",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028152611 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028152611",
+        "description": ".history.skillathon_ocr.uploader.models_20201028152611",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028152611",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028152611 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dateext",
+        "kind": 2,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028152611",
+        "description": ".history.skillathon_ocr.uploader.models_20201028152611",
+        "peekOfCode": "def dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        ocr_txt = OCRText(image = self, text = txt,lang = \"EN\", execution_time = execution_time)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028152611",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028152611 import dateext\n```\n\n```python\n\n\n```\n\n```python\ndef dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        ocr_txt = OCRText(image = self, text = txt,lang = \"EN\", execution_time = execution_time)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028152638",
+        "description": ".history.skillathon_ocr.uploader.models_20201028152638",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028152638",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028152638 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028152638",
+        "description": ".history.skillathon_ocr.uploader.models_20201028152638",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028152638",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028152638 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028152638",
+        "description": ".history.skillathon_ocr.uploader.models_20201028152638",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028152638",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028152638 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dateext",
+        "kind": 2,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028152638",
+        "description": ".history.skillathon_ocr.uploader.models_20201028152638",
+        "peekOfCode": "def dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        ocr_txt = OCRText(image = self, text = match,lang = \"EN\", execution_time = execution_time)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028152638",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028152638 import dateext\n```\n\n```python\n\n\n```\n\n```python\ndef dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        ocr_txt = OCRText(image = self, text = match,lang = \"EN\", execution_time = execution_time)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153040",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153040",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153040",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153040 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153040",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153040",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153040",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153040 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153040",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153040",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153040",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153040 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dateext",
+        "kind": 2,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153040",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153040",
+        "peekOfCode": "def dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRText(image = self, text = match,lang = \"EN\", execution_time = execution_time)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153040",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153040 import dateext\n```\n\n```python\n\n\n```\n\n```python\ndef dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRText(image = self, text = match,lang = \"EN\", execution_time = execution_time)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153619",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153619",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153619",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153619 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153619",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153619",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153619",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153619 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153619",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153619",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153619",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153619 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dateext",
+        "kind": 2,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153619",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153619",
+        "peekOfCode": "def dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRdate(image = self, text = match,lang = \"EN\", execution_time = execution_time)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153619",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153619 import dateext\n```\n\n```python\n\n\n```\n\n```python\ndef dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRdate(image = self, text = match,lang = \"EN\", execution_time = execution_time)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153715",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153715",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153715",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153715 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153715",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153715",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153715",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153715 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153715",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153715",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153715",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153715 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dateext",
+        "kind": 2,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153715",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153715",
+        "peekOfCode": "def dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRdate(image = self, text = match,lang = \"EN\", execution_time = execution_time)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153715",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153715 import dateext\n```\n\n```python\n\n\n```\n\n```python\ndef dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRdate(image = self, text = match,lang = \"EN\", execution_time = execution_time)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153927",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153927",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153927",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153927 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153927",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153927",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153927",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153927 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153927",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153927",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153927",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153927 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dateext",
+        "kind": 2,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028153927",
+        "description": ".history.skillathon_ocr.uploader.models_20201028153927",
+        "peekOfCode": "def dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRdate(image = self, text = match,lang = \"EN\", execution_time = execution_time)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028153927",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028153927 import dateext\n```\n\n```python\n\n\n```\n\n```python\ndef dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRdate(image = self, text = match,lang = \"EN\", execution_time = execution_time)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161509",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161509",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161509",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161509 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161509",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161509",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161509",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161509 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161509",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161509",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    date_text = models.TextField(\"Date text\", blank=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161509",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161509 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    date_text = models.TextField(\"Date text\", blank=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dateext",
+        "kind": 2,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161509",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161509",
+        "peekOfCode": "def dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRdate(image = self, text = match,lang = \"EN\", execution_time = execution_time)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161509",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161509 import dateext\n```\n\n```python\n\n\n```\n\n```python\ndef dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRdate(image = self, text = match,lang = \"EN\", execution_time = execution_time)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161616",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161616",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161616",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161616 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161616",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161616",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161616",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161616 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161616",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161616",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    date_text = models.TextField(\"Date text\", blank=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161616",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161616 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    date_text = models.TextField(\"Date text\", blank=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dateext",
+        "kind": 2,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161616",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161616",
+        "peekOfCode": "def dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRdate(image = self, text = match,lang = \"EN\", execution_time = execution_time)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161616",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161616 import dateext\n```\n\n```python\n\n\n```\n\n```python\ndef dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRdate(image = self, text = match,lang = \"EN\", execution_time = execution_time)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161753",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161753",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161753",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161753 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161753",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161753",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161753",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161753 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161753",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161753",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161753",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161753 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dateext",
+        "kind": 2,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161753",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161753",
+        "peekOfCode": "def dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRdate(image = self, text = match,lang = \"EN\", execution_time = execution_time)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161753",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161753 import dateext\n```\n\n```python\n\n\n```\n\n```python\ndef dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRdate(image = self, text = match,lang = \"EN\", execution_time = execution_time)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161910",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161910",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161910",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161910 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161910",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161910",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161910",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161910 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161910",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161910",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161910",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161910 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dateext",
+        "kind": 2,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028161910",
+        "description": ".history.skillathon_ocr.uploader.models_20201028161910",
+        "peekOfCode": "def dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRdate(image = self, text = match,lang = \"EN\", execution_time = execution_time)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028161910",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028161910 import dateext\n```\n\n```python\n\n\n```\n\n```python\ndef dateext(self):\n        import time\n        start_time = time.time()\n        img = Image.open(self.image)\n        txt = pytesseract.image_to_string(img, lang='eng')\n        matches = datefinder.find_dates(txt)\n        for match in matches:\n            print(match)\n        execution_time = time.time() - start_time\n        date_txt= OCRdate(image = self, text = match,lang = \"EN\", execution_time = execution_time)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFileManager",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028162123",
+        "description": ".history.skillathon_ocr.uploader.models_20201028162123",
+        "peekOfCode": "class ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028162123",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028162123 import ImageFileManager\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFileManager(models.Manager):\n    def search(self, query):\n        return self.get_queryset().filter(models.Q(internal_reference__icontains=query) |\n                                          models.Q(name__icontains=query) |\n                                          models.Q(description__icontains=query)\n                                          )\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ImageFile",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028162123",
+        "description": ".history.skillathon_ocr.uploader.models_20201028162123",
+        "peekOfCode": "class ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028162123",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028162123 import ImageFile\n```\n\n```python\n\n\n```\n\n```python\nclass ImageFile(models.Model):\n    name = models.CharField(\"Name\", max_length=100)\n    internal_reference = models.CharField(\"Internal Reference\", max_length=100, editable=False)\n    description = models.TextField(\"Description\", blank=True, null=True)\n    image = models.ImageField(upload_to=\"OCR_image/input/\", verbose_name=\"Input Image\")\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image)\n    def execute_and_save_ocr(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OCRText",
+        "kind": 6,
+        "importPath": ".history.skillathon_ocr.uploader.models_20201028162123",
+        "description": ".history.skillathon_ocr.uploader.models_20201028162123",
+        "peekOfCode": "class OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:",
+        "detail": ".history.skillathon_ocr.uploader.models_20201028162123",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.models_20201028162123 import OCRText\n```\n\n```python\n\n\n```\n\n```python\nclass OCRText(models.Model):\n    text = models.TextField(\"OCR text\", blank=True)\n    lang = models.TextField(\"Language\", default=\"EN\")\n    execution_time = models.IntegerField(\"Execution Time\", editable=False, null=True);\n    image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)\n    create_at = models.DateTimeField(\"Create at\", auto_now_add=True)\n    updated_at = models.DateTimeField(\"Update at\", auto_now=True)\n    def __str__(self):\n        return \"{0:03d} - {1}\".format(self.id, self.image.internal_reference)\n    class Meta:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.skillathon_ocr.uploader.views_20190818101834",
+        "description": ".history.skillathon_ocr.uploader.views_20190818101834",
+        "peekOfCode": "def home(request):\n    data = dict()\n    image_form = ImageFileForm(request.POST or None, request.FILES or None)\n    if image_form.is_valid():\n        image = image_form.save()\n        image.execute_and_save_ocr()\n        redirect('home')\n    image_list = ImageFile.objects.all().order_by('-id')\n    data['image_form'] = image_form\n    data['image_list'] = image_list",
+        "detail": ".history.skillathon_ocr.uploader.views_20190818101834",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.views_20190818101834 import home\n```\n\n```python\n\n\n```\n\n```python\ndef home(request):\n    data = dict()\n    image_form = ImageFileForm(request.POST or None, request.FILES or None)\n    if image_form.is_valid():\n        image = image_form.save()\n        image.execute_and_save_ocr()\n        redirect('home')\n    image_list = ImageFile.objects.all().order_by('-id')\n    data['image_form'] = image_form\n    data['image_list'] = image_list\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.skillathon_ocr.uploader.views_20201028154728",
+        "description": ".history.skillathon_ocr.uploader.views_20201028154728",
+        "peekOfCode": "def home(request):\n    data = dict()\n    image_form = ImageFileForm(request.POST or None, request.FILES or None)\n    if image_form.is_valid():\n        image = image_form.save()\n        image.execute_and_save_ocr()\n        redirect('home')\n    image_list = ImageFile.objects.all().order_by('-id')\n    data['image_form'] = image_form\n    data['image_list'] = image_list",
+        "detail": ".history.skillathon_ocr.uploader.views_20201028154728",
+        "documentation": {
+            "value": "\n```python\nfrom .history.skillathon_ocr.uploader.views_20201028154728 import home\n```\n\n```python\n\n\n```\n\n```python\ndef home(request):\n    data = dict()\n    image_form = ImageFileForm(request.POST or None, request.FILES or None)\n    if image_form.is_valid():\n        image = image_form.save()\n        image.execute_and_save_ocr()\n        redirect('home')\n    image_list = ImageFile.objects.all().order_by('-id')\n    data['image_form'] = image_form\n    data['image_list'] = image_list\n```\n",
             "supportThemeIcons": false
         }
     },

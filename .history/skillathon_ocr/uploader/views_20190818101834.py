@@ -16,5 +16,4 @@ def home(request):
 
     data['image_form'] = image_form
     data['image_list'] = image_list
-    print(data)
     return render(request, "uploader/index.html", data)

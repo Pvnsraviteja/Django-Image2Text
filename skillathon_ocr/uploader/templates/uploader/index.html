@@ -37,7 +37,7 @@ function show_img_details(img_path){
 {% block content %}
 
 <div class="mt-5 text-center">
-    <h1>OCR web</h1>
+    <h1>Skillathon OCR-Project</h1>
 </div>
 
 <div class="offset-md-2 col-md-8 my-5" id="image_form">
@@ -61,7 +61,7 @@ function show_img_details(img_path){
         <thead>
         <tr>
             <th scope="col" class="text-center">#</th>
-            <th scope="col" class="d-none d-sm-table-cell">Internal Reference</th>
+            <th scope="col" class="d-none d-sm-table-cell">Dates</th>
             <th scope="col" class="d-none d-md-table-cell">OCR Text</th>
             <th scope="col" class="text-center">Image</th>
         </tr>
@@ -69,9 +69,9 @@ function show_img_details(img_path){
         <tbody>
         {% for image in image_list %}
         <tr>
-            <th scope="row">{{image.id}}</th>
-            <td class="d-none d-sm-table-cell">{{image.internal_reference}}</td>
+            <td scope="row">{{image.id}}</td>
             {% with image.ocrtext_set.last as ocrtext%}
+			<td class="d-none d-sm-table-cell">{{ ocrtext.lang }}</td>
             <td class="d-none d-md-table-cell">{{ ocrtext.text|truncatechars:350}}</td>
             {% endwith%}
             <td class="text-center">

@@ -88,3 +88,18 @@ class OCRText(models.Model):
         verbose_name = "OCRText"
         verbose_name_plural = "OCRTexts"
         ordering = ['id']
+        
+def dateext(self):
+        import time
+        start_time = time.time()
+
+        img = Image.open(self.image)
+        txt = pytesseract.image_to_string(img, lang='eng')
+        matches = datefinder.find_dates(txt)
+        for match in matches:
+            print(match)
+        execution_time = time.time() - start_time
+        date_txt= OCRdate(image = self, text = match,lang = "EN", execution_time = execution_time)
+        date_txt.save()
+        print('OCR_Date: \n{0}\n'.format(match))
+        return date_txt

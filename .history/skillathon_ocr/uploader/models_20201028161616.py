@@ -39,7 +39,7 @@ class ImageFile(models.Model):
                 date_text = ''
             date_text += str(match)
         execution_time = time.time() - start_time
-        ocr_txt = OCRText(image = self, text = txt,lang = date_text, execution_time = execution_time)
+        ocr_txt = OCRText(image = self, text = txt,lang = "EN", execution_time = execution_time, date_text=date_text)
         ocr_txt.save()
 
         print("The image {0} was opened.".format(self.image))
@@ -80,7 +80,8 @@ class OCRText(models.Model):
     image = models.ForeignKey('ImageFile', on_delete=models.CASCADE)
     create_at = models.DateTimeField("Create at", auto_now_add=True)
     updated_at = models.DateTimeField("Update at", auto_now=True)
-    
+    date_text = models.TextField("Date text", blank=True)
+
     def __str__(self):
         return "{0:03d} - {1}".format(self.id, self.image.internal_reference)
 
@@ -88,3 +89,18 @@ class OCRText(models.Model):
         verbose_name = "OCRText"
         verbose_name_plural = "OCRTexts"
         ordering = ['id']
+        
+def dateext(self):
+        import time
+        start_time = time.time()
+
+        img = Image.open(self.image)
+        txt = pytesseract.image_to_string(img, lang='eng')
+        matches = datefinder.find_dates(txt)
+        for match in matches:
+            print(match)
+        execution_time = time.time() - start_time
+        date_txt= OCRdate(image = self, text = match,lang = "EN", execution_time = execution_time)
+        date_txt.save()
+        print('OCR_Date: \n{0}\n'.format(match))
+        return date_txt
